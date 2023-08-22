@@ -1,7 +1,4 @@
 
-secret.h
-
-
 # General
 .DS_Store
 .AppleDouble
@@ -69,5 +66,4 @@ Temporary Items
 .vscode/launch.json
 .vscode/ipch
 
-
-
+secret.h
